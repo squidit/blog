@@ -1,0 +1,2 @@
+# blog
+Squid dev blog
